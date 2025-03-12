@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508993988479",
+    "project_id": "groitalapp",
+    "storage_bucket": "groitalapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508993988479:android:906162b50220b11c409c4a",
+        "android_client_info": {
+          "package_name": "com.stainstudiooo.docital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlJlbJ9Kc_LI0KtOFKltzDbPHwgVUt49s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
