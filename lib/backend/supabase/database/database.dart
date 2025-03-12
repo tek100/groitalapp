@@ -1,0 +1,32 @@
+export '../../../flutter_flow/lat_lng.dart';
+export 'package:supabase_flutter/supabase_flutter.dart' hide Provider;
+
+export '../supabase.dart';
+export 'row.dart';
+export 'table.dart';
+
+export 'tables/subtask.dart';
+export 'tables/task_activity.dart';
+export 'tables/finished_product_inspection.dart';
+export 'tables/clean_insectrocutor.dart';
+export 'tables/drying_records.dart';
+export 'tables/incidents.dart';
+export 'tables/audit.dart';
+export 'tables/tables_metadata.dart';
+export 'tables/department.dart';
+export 'tables/waste_material.dart';
+export 'tables/check_mouse_trap.dart';
+export 'tables/task.dart';
+export 'tables/batch.dart';
+export 'tables/products.dart';
+export 'tables/uncompliance.dart';
+export 'tables/training_assignments.dart';
+export 'tables/notification_table.dart';
+export 'tables/instructions.dart';
+export 'tables/employee.dart';
+export 'tables/raw_material.dart';
+export 'tables/columns_metadata.dart';
+export 'tables/metal_detector_calibration.dart';
+export 'tables/roles.dart';
+export 'tables/task_completion.dart';
+export 'tables/training.dart';
